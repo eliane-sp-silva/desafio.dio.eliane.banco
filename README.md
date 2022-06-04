@@ -1,4 +1,4 @@
-# Desafio de projeto DIO | Criando um Banco Digital com Java e Orientação a Objetos
+# Desafio de projeto DIO 
 Criando um Banco Digital com Java e Paradigma de Orientação a Objetos
 
 
